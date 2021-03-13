@@ -19,7 +19,7 @@ namespace MyGameProject
 
             });
 
-            // deneme 22
+   
             Console.ReadLine();
          
         }
