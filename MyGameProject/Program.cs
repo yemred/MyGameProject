@@ -19,6 +19,7 @@ namespace MyGameProject
 
             });
 
+            //deneme
             Console.ReadLine();
          
         }
