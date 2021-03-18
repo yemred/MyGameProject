@@ -15,7 +15,7 @@ namespace MyGameProject
                 FirstName = "Tuba",
                 LastName = "Duymaz",
                 DateOfBirth = new DateTime(1990,10,28),
-                NationalityId = "12037117934"
+                NationalityId = "***"
 
             });
 
